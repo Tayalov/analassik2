@@ -66,3 +66,6 @@ The benchmark was run on randomly generated arrays of increasing size.
 📄 `docs/performance-plots/heapsort-results.csv`
 
 ![Снимок экрана 2025-10-02 113728.png](../../Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-02%20113728.png)
+
+<img width="1831" height="555" alt="Снимок экрана 2025-10-02 113728" src="https://github.com/user-attachments/assets/917886e5-0b25-4cfb-9eca-09dd4937251c" />
+
